@@ -9,7 +9,7 @@ import base64
 trade_type = 1
 
 API_Key = 'YAu1qHdYPY906fmE5GQCdaQ0HnZTRbddjhXvanJEMvXYe2AuoQomTakVk6TbnVR6'
-Secret_Key = 'btlr10qhNQqSdm5shFgQRD7cZ2eOjqKQfOTjedraRUIy4GPGOS7W7nxRHpigVtOi'
+Secret_Key = ''
 
 
 def binance_buy_call():
